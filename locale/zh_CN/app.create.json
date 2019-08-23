@@ -30,11 +30,15 @@
         "createNewAccount": "选择你的头像",
         "description": {
             "becomePart": "成为加密世界快速发展的一部分。您是唯一可以访问加密资产的人",
-            "enterName": "输入帐户名称或"
+            "enterName": "输入帐户名称或",
+            "tokenLauncher": "Issue your own tokens. These can be integrated into your business not only as an internal currency but also as a rating system, or loyalty program.",
+            "wallet": "Store, manage and receive interest on your digital assets balance, easily and securely."
         },
         "from": "这个头像是视觉表达，你以后不能改变它",
         "header": {
             "accountName": "用户名",
+            "tokenLauncher": "TokenLauncher",
+            "wallet": "Wallet",
             "withBlockchain": "开始使用区块链"
         },
         "import": "导入帐户",
