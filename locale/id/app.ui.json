@@ -142,14 +142,14 @@
     },
     "password": {
         "btn": {
-            "confirm": "Confirm"
+            "confirm": "Konfirmasi"
         },
         "minLength": "harus paling tidak {{minLength}} karakter",
         "name": "Nama akun",
         "nameExists": "Nama telah diambil",
-        "newPass": "New password",
-        "old": "Old password",
-        "oldWrong": "Old password is wrong",
+        "newPass": "Kata sandi baru",
+        "old": "Kata sandi lama",
+        "oldWrong": "Kata sandi lama salah",
         "repeat": "Konfirmasi sandi",
         "secure": "kata sandi aman",
         "title": "Lindungi Akun Anda dengan Kata Sandi Baru",
