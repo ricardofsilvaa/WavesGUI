@@ -193,6 +193,12 @@
             "message": "Kauplemise alustamiseks logige sisse või looge konto",
             "ok": "Logi sisse"
         },
+        "deleteAccount": {
+            "cancel": "Cancel",
+            "delete": "Remove",
+            "description": "{div}[Removing an account will lead to its irretrievable loss if you didn't save a backup phrase (SEED).]\n{div}[Click on the REMOVE button to proceed with account removal, or CANCEL to return to the previous screen.]",
+            "header": "Remove account"
+        },
         "deposit": {
             "coinomatBCH": {
                 "helpDescrText": "Kui tehing on kinnitatud, töötleb gateway BCH tokeni ülekannet teie Waves kontole.",
@@ -606,8 +612,10 @@
             "warningHeader": "Meetmed võivad põhjustada vara kaotsimineku."
         },
         "settings": {
+            "account": "Account",
             "cancel": "Loo konto",
             "changePass": "Change password",
+            "deleteAccount": "Remove account",
             "general": {
                 "auto": "Automaatne",
                 "blockHeight": "Praegune kõrgus",

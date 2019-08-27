@@ -193,6 +193,12 @@
             "message": "To begin trading please sign in or create an account",
             "ok": "Sign in"
         },
+        "deleteAccount": {
+            "cancel": "Отмена",
+            "delete": "Удалить",
+            "description": "{div}[Удаление аккаунта приведет к его утрате, если вы не сохранили секретную фразу (SEED).]{div}[Нажмите кнопку УДАЛИТЬ, чтобы удалить аккаунт, или ОТМЕНА, чтобы вернуться к предыдущему экрану.]",
+            "header": "Удалить аккаунт"
+        },
         "deposit": {
             "coinomatBCH": {
                 "helpDescrText": "Как только транзакция будет подтверждена, шлюз отправит BCH-токен на ваш аккаунт Waves.",
@@ -606,8 +612,10 @@
             "warningHeader": "Действия могут привести к потере ассета."
         },
         "settings": {
+            "account": "Аккаунт",
             "cancel": "Create an account",
             "changePass": "Изменить пароль",
+            "deleteAccount": "Удалить аккаунт",
             "general": {
                 "auto": "Авто",
                 "blockHeight": "Текущая высота",

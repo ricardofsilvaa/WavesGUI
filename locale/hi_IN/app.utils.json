@@ -193,6 +193,12 @@
             "message": "ट्रेडिंग करने के लिए, कृपया साइन इन हों या खाता बनाएं",
             "ok": "साइन इन करें"
         },
+        "deleteAccount": {
+            "cancel": "Cancel",
+            "delete": "Remove",
+            "description": "{div}[Removing an account will lead to its irretrievable loss if you didn't save a backup phrase (SEED).]\n{div}[Click on the REMOVE button to proceed with account removal, or CANCEL to return to the previous screen.]",
+            "header": "Remove account"
+        },
         "deposit": {
             "coinomatBCH": {
                 "helpDescrText": "लेनदेन की पुष्टि हो जाने पर, यह गेटवे BCH के ट्रांसफर को आपके Waves खाते में एक टोकन में प्रोसेस करेगा।",
@@ -606,8 +612,10 @@
             "warningHeader": "कार्रवाई से परिसंपत्ति को नुकसान हो सकता है।"
         },
         "settings": {
+            "account": "Account",
             "cancel": "खाता बनाएं",
             "changePass": "Change password",
+            "deleteAccount": "Remove account",
             "general": {
                 "auto": "ऑटो",
                 "blockHeight": "वर्तमान ऊंचाई",

@@ -11,9 +11,6 @@
             "restore": "Pulihkan semua"
         },
         "enterPass": "Silakan masukkan kata sandi Anda untuk melanjutkan",
-        "modal": {
-            "forgotPass": "Kata sandi berhasil diatur ulang"
-        },
         "passForgot": {
             "attention": "Perhatian!",
             "description": "Jika Anda lupa kata sandi, Anda harus mengembalikan semua akun Anda dari SEED mereka dan menetapkan kata sandi baru."

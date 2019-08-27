@@ -193,6 +193,12 @@
             "message": "Um mit dem Handel zu beginnen, melden Sie sich an oder erstellen Sie einen Account",
             "ok": "Anmelden"
         },
+        "deleteAccount": {
+            "cancel": "Cancel",
+            "delete": "Remove",
+            "description": "{div}[Removing an account will lead to its irretrievable loss if you didn't save a backup phrase (SEED).]\n{div}[Click on the REMOVE button to proceed with account removal, or CANCEL to return to the previous screen.]",
+            "header": "Remove account"
+        },
         "deposit": {
             "coinomatBCH": {
                 "helpDescrText": "Sobald die Transaktion bestätigt ist, verarbeitet das Gateway die Übertragung von BCH zu einem Token in ihrem Waves-Account.",
@@ -606,8 +612,10 @@
             "warningHeader": "Aktionen können zum Verlust des Vermögenswerts führen."
         },
         "settings": {
+            "account": "Account",
             "cancel": "Einen Account erstellen",
             "changePass": "Change password",
+            "deleteAccount": "Remove account",
             "general": {
                 "auto": "Automatisch",
                 "blockHeight": "Aktuelle Höhe",

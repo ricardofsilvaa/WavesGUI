@@ -193,12 +193,18 @@
             "message": "Om te beginnen met handelen, gelieve in te loggen of een account aan te maken",
             "ok": "Inloggen"
         },
+        "deleteAccount": {
+            "cancel": "Cancel",
+            "delete": "Remove",
+            "description": "{div}[Removing an account will lead to its irretrievable loss if you didn't save a backup phrase (SEED).]\n{div}[Click on the REMOVE button to proceed with account removal, or CANCEL to return to the previous screen.]",
+            "header": "Remove account"
+        },
         "deposit": {
             "coinomatBCH": {
                 "helpDescrText": "Zodra de transactie bevestigd is zal de gateway de transactie behandelen en dit omzetten naar een BCH token in uw Waves account.",
                 "helpDescrTitle": "Voer dit adres in, in uw Bitcoin client of wallet.",
                 "warningMinAmountText": "Als u minder dan {{minAmount, BigNumber}} {{assetTicker}} verstuurd raakt u dit geld kwijt.",
-                "warningMinAmountTitle": "Het minimumbedrag om te storten is {{minAmount, BigNumber}} {{assetTicker}}",
+                "warningMinAmountTitle": "Het minimale stortingsbedrag is {{minAmount, BigNumber}} {{assetTicker}}, het maximale stortingsbedrag is {{maxAmount}} {{assetTicker}}",
                 "warningText": "Het versturen van elke andere currency naar dit adres kan resulteren in het verlies van uw storting.",
                 "warningTitle": "Verstuur enkel BCH naar dit deposit adres"
             },
@@ -206,7 +212,7 @@
                 "helpDescrText": "Zodra de transactie bevestigd is zal de gateway de transactie behandelen en dit omzetten naar een BSV token in uw Waves account.",
                 "helpDescrTitle": "Voer dit adres in, in uw Bitcoin Satoshi Vision client of wallet.",
                 "warningMinAmountText": "Als u minder dan {{minAmount, BigNumber}} {{assetTicker}} stuurt raakt u dit geld kwijt.",
-                "warningMinAmountTitle": "Het minimum bedrag om te storten is {{minAmount, BigNumber}} {{assetTicker}}",
+                "warningMinAmountTitle": "Het minimale stortingsbedrag is {{minAmount, BigNumber}} {{assetTicker}}, het maximale stortingsbedrag is {{maxAmount}} {{assetTicker}}",
                 "warningText": "Het versturen van elke andere valuta naar dit adres kan leiden tot het verlies van deze storting.",
                 "warningTitle": "Verstuur enkel BSV naar dit adres"
             },
@@ -214,7 +220,7 @@
                 "helpDescrText": "Zodra de transactie bevestigd is zal de gateway de transactie behandelen en dit omzetten naar een BTC token in uw Waves account.",
                 "helpDescrTitle": "Voer dit adres in in uw Bitcoin client of wallet",
                 "warningMinAmountText": "Als u minder dan {{minAmount, BigNumber}} {{assetTicker}} verstuurd raakt u dit geld kwijt.",
-                "warningMinAmountTitle": "Het minimumbedrag om te storten is {{minAmount, BigNumber}} {{assetTicker}}",
+                "warningMinAmountTitle": "Het minimale stortingsbedrag is {{minAmount, BigNumber}} {{assetTicker}}, het maximale stortingsbedrag is {{maxAmount}} {{assetTicker}}",
                 "warningText": "Het versturen van elke andere currency naar dit adres kan resulteren in het verlies van uw storting.",
                 "warningTitle": "Verstuur enkel BTC naar dit deposit adres"
             },
@@ -222,7 +228,7 @@
                 "helpDescrText": "Zodra de transactie is bevestigd, verwerkt de gateway de overdracht van DASH naar een token in uw Waves-account.",
                 "helpDescrTitle": "Voer dit adres in uw DASH client of portefeuille in",
                 "warningMinAmountText": "Als u minder dan {{minAmount, BigNumber}} {{assetTicker}} verstuurd raakt u dit geld kwijt.",
-                "warningMinAmountTitle": "Het minimumbedrag om te storten is {{minAmount, BigNumber}} {{assetTicker}}",
+                "warningMinAmountTitle": "Het minimale stortingsbedrag is {{minAmount, BigNumber}} {{assetTicker}}, het maximale stortingsbedrag is {{maxAmount}} {{assetTicker}}",
                 "warningText": "Het versturen van elke andere currency naar dit adres kan resulteren in het verlies van uw storting.",
                 "warningTitle": "Verstuur enkel DASH naar dit deposit adres"
             },
@@ -230,7 +236,7 @@
                 "helpDescrText": "Zodra de transactie bevestigd is zal de gateway de transactie behandelen en dit omzetten naar een ETH token in uw Waves account.",
                 "helpDescrTitle": "Voer dit adres in in uw Ethereum client of wallet",
                 "warningMinAmountText": "Als u minder dan {{minAmount, BigNumber}} {{assetTicker}} verstuurd raakt u dit geld kwijt.",
-                "warningMinAmountTitle": "Het minimumbedrag om te storten is {{minAmount, BigNumber}} {{assetTicker}}",
+                "warningMinAmountTitle": "Het minimale stortingsbedrag is {{minAmount, BigNumber}} {{assetTicker}}, het maximale stortingsbedrag is {{maxAmount}} {{assetTicker}}",
                 "warningText": "Controleer of uw wallet of exchange smart-contracts gebruikt om ETH the withdrawen. Wij accepteren zulke transacties niet en kunnen dit niet terug betalen. U raakt op deze manier uw geld kwijt.",
                 "warningTitle": "Verstuur geen ETH vanuit smart contracts naar dit adres. Stort geen ERC20 tokens! Alleen Ethereum is toegestaan."
             },
@@ -238,7 +244,7 @@
                 "helpDescrText": "Zodra de transactie bevestigd is zal de gateway de transactie behandelen en dit omzetten naar een LTC token in uw Waves account.",
                 "helpDescrTitle": "Voer dit adres in in uw Litecoin client of wallet",
                 "warningMinAmountText": "Als u minder dan {{minAmount, BigNumber}} {{assetTicker}} verstuurd raakt u dit geld kwijt.",
-                "warningMinAmountTitle": "Het minimumbedrag om te storten is {{minAmount, BigNumber}} {{assetTicker}}",
+                "warningMinAmountTitle": "Het minimale stortingsbedrag is {{minAmount, BigNumber}} {{assetTicker}}, het maximale stortingsbedrag is {{maxAmount}} {{assetTicker}}",
                 "warningText": "Het versturen van elke andere currency naar dit adres kan resulteren in het verlies van uw storting.",
                 "warningTitle": "Verstuur enkel LTC naar dit deposit adres"
             },
@@ -246,7 +252,7 @@
                 "helpDescrText": "Nadat de transactie is bevestigd, verwerkt de gateway de overdracht van XMR naar een token in uw Waves-account.",
                 "helpDescrTitle": "Dit adres invoeren in uw Monero-client of wallet",
                 "warningMinAmountText": "Als u minder dan {{minAmount, BigNumber}} {{assetTicker}} verzendt, verliest u dat geld.",
-                "warningMinAmountTitle": "Het minimale stortingsbedrag is {{minAmount, BigNumber}} {{assetTicker}}",
+                "warningMinAmountTitle": "Het minimale stortingsbedrag is {{minAmount, BigNumber}} {{assetTicker}}, het maximale stortingsbedrag is {{maxAmount}} {{assetTicker}}",
                 "warningText": "{div}[Payment ID is not required.]Wanneer u andere valuta naar dit adres verstuurt, kan dit tot gevolg hebben dat u uw gestorte geld verliest.",
                 "warningTitle": "Stuur alléén XMR naar dit stortingsadres"
             },
@@ -254,7 +260,7 @@
                 "helpDescrText": "Zodra de transactie bevestigd is zal de gateway de transactie behandelen en dit omzetten naar een Zcash token in uw Waves account.",
                 "helpDescrTitle": "Voer dit adres in in uw Zcash client of wallet",
                 "warningMinAmountText": "Als u minder dan {{minAmount, BigNumber}} {{assetTicker}} verstuurd raakt u dit geld kwijt.",
-                "warningMinAmountTitle": "Het minimumbedrag om te storten is {{minAmount, BigNumber}} {{assetTicker}}",
+                "warningMinAmountTitle": "Het minimale stortingsbedrag is {{minAmount, BigNumber}} {{assetTicker}}, het maximale stortingsbedrag is {{maxAmount}} {{assetTicker}}",
                 "warningText": "Het versturen van elke andere currency naar dit adres kan resulteren in het verlies van uw storting.",
                 "warningTitle": "Verstuur enkel Zcash naar dit deposit adres"
             },
@@ -606,8 +612,10 @@
             "warningHeader": "Acties kunnen tot verlies van de asset leiden."
         },
         "settings": {
+            "account": "Account",
             "cancel": "Maak een account aan",
             "changePass": "Wachtwoord wijzigen",
+            "deleteAccount": "Remove account",
             "general": {
                 "auto": "Auto",
                 "blockHeight": "Huidige hoogte",

@@ -193,6 +193,12 @@
             "message": "トレードを開始するには、サインインまたはアカウントを作成してください",
             "ok": "サインイン"
         },
+        "deleteAccount": {
+            "cancel": "Cancel",
+            "delete": "Remove",
+            "description": "{div}[Removing an account will lead to its irretrievable loss if you didn't save a backup phrase (SEED).]\n{div}[Click on the REMOVE button to proceed with account removal, or CANCEL to return to the previous screen.]",
+            "header": "Remove account"
+        },
         "deposit": {
             "coinomatBCH": {
                 "helpDescrText": "トランザクションが承認されると、ゲートウェイはBCHの送信を進め、完了するとあなたのWavesアカウントにトークンが反映されます。",
@@ -606,8 +612,10 @@
             "warningHeader": "アクションが資産の消失に繋がる可能性があります。"
         },
         "settings": {
+            "account": "Account",
             "cancel": "アカウントを作成",
             "changePass": "Change password",
+            "deleteAccount": "Remove account",
             "general": {
                 "auto": "自動",
                 "blockHeight": "現在のブロック",

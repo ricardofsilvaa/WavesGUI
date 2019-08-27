@@ -193,6 +193,12 @@
             "message": "Untuk memulai perdagangan, masuk atau buat akun",
             "ok": "Masuk"
         },
+        "deleteAccount": {
+            "cancel": "Cancel",
+            "delete": "Remove",
+            "description": "{div}[Removing an account will lead to its irretrievable loss if you didn't save a backup phrase (SEED).]\n{div}[Click on the REMOVE button to proceed with account removal, or CANCEL to return to the previous screen.]",
+            "header": "Remove account"
+        },
         "deposit": {
             "coinomatBCH": {
                 "helpDescrText": "Setelah transaksi dikonfirmasi, gateway akan memproses transfer BCH ke token di akun Waves Anda.",
@@ -606,8 +612,10 @@
             "warningHeader": "Tindakan dapat menyebabkan hilangnya aset."
         },
         "settings": {
+            "account": "Account",
             "cancel": "Buat sebuah akun",
             "changePass": "Ganti kata sandi",
+            "deleteAccount": "Remove account",
             "general": {
                 "auto": "Auto",
                 "blockHeight": "Tinggi saat ini",
