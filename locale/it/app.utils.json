@@ -821,6 +821,7 @@
             "step1": {
                 "button": "Cosa devi sapere a proposito del tuo SEED",
                 "buttonMobile": "Continua",
+                "buttonReadMore": "Read more",
                 "p1": "Per favore, prenditi qualche minuto per comprendere alcune cose importanti riguardo la tua stessa sicurezza. 🙏",
                 "p2": "In caso dovessi cadere vittima di una truffa phishing o perdere la tua frase di backup (nota anche come SEED), non potremo in alcun modo recuperare i tuoi fondi o congelare il tuo account.",
                 "p3": "Continuando ad utilizzare la nostra piattaforma, concordi e accetti tutti i rischi connessi all'eventuale smarrimento del tuo SEED, inclusi ma non limitati a quelli relativi all'impossibilità di accedere o gestire i tuoi stessi fondi. In caso di smarrimento del tuo SEED, concordi e confermi di aver compreso che la piattaforma Waves non potrà essere ritenuta responsabile di eventuali conseguenze.",
@@ -922,6 +923,7 @@
                 "1_3_18": "{span.line} [1. Aggiunto login al wallet utilizzando una chiave privata.]\n{span.line} [2. La modifica del prezzo di 24 ore di un token è ora associata alla coppia token/WAVES.]",
                 "1_3_19": "{span.line} [1. Lancio del gateway Bancor.] \n{span.line} [2.Miglioramento dell'interfaccia del menu utente.]",
                 "1_3_2": "{span.line} [1. Lancio del gateway Vostok.] \n{span.line} [2. Miglioramento dell'interfaccia utente e risoluzione di altri bug minori.]",
+                "1_3_20": "{span.line}[1. Improved system for storing and restoring accounts from local storage (Need to update the [desktop application](https://wavesplatform.com/technology/wallet)).]\n{span.line}[2. Fixed rounding of prices in the orderbook.]",
                 "1_3_5": "{span.line}[1. Aggiunto il tab al concorso [wsoc.io](https://wsoc.io) tokens.]\n{span.line}[2. Aggiunto il supporto alla lingua Francese.]\n{span.line}[3. Risoluzione di bug minori.]",
                 "1_3_7": "{span.line} [1. Integrazione con [tokenrating.wavesexplorer.com] (https://tokenrating.wavesexplorer.com) Ora puoi valutare i token direttamente nell'app.] \n {span.line} [2. Sono stati corretti altri bug minori.]",
                 "1_3_9": "{span.line} [1. Miglioramento Interfaccia utente e funzionalità delle sezioni di Exchange e Wallet.] \n {span.line} [2. Correzione di altri bug minori.]"

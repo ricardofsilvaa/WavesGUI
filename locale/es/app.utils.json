@@ -821,6 +821,7 @@
             "step1": {
                 "button": "Lo que tienes que saber sobre tu SEED",
                 "buttonMobile": "Siguiente",
+                "buttonReadMore": "Read more",
                 "p1": "Por favor, dedica un momento para entender algunas cosas importantes sobre tu propia seguridad.",
                 "p2": "Nosotros no podemos recuperar tus fondos ni congelar tu cuenta si tu visitas un sitio de suplantación de identidad o pierdes tu frase de recuperación (conocido como SEED).",
                 "p3": "Continuar usando nuestra plataforma, muestras tu conformidad en aceptar todos los riesgos asociados a la pérdida de tu SEED, incluyendo pero no limitado a la incapacidad de obtener sus fondos y disponer de ellos. En caso de que pierda su SEED, acepta y reconoce que Waves Platform no se responsabilizará de las consecuencias negativas por ello.",
@@ -922,6 +923,7 @@
                 "1_3_18": "{span.line}[1. Added login to wallet using a private key.]\n{span.line}[2. The 24 hours price change of a token is now bound to token/WAVES pair.]",
                 "1_3_19": "{span.line}[1. Bancor gateway has been launched.]\n{span.line}[2. User menu interface has been improved.]",
                 "1_3_2": "\"span.line\" [1. Se ha puesto en marcha la puerta de enlace Vostok.]\n\"span.line\" [2. Se ha corregido la interfaz de usuario y algunos errores menores.]",
+                "1_3_20": "{span.line}[1. Improved system for storing and restoring accounts from local storage (Need to update the [desktop application](https://wavesplatform.com/technology/wallet)).]\n{span.line}[2. Fixed rounding of prices in the orderbook.]",
                 "1_3_5": "\"span.line\" [1. Se ha añadido una pestaña con tokens de concurso [wsoc.io](https://wsoc.io).\n\"span.line\" [2. Se ha añadido compatibilidad con el idioma francés.]\n\"span.line\" [3. Se han corregido errores menores adicionales.]",
                 "1_3_7": "\"span.line\" [1. Integración con [tokenrating.wavesexplorer.com](https://tokenrating.wavesexplorer.com) Ahora puede calificar tokens directamente en la aplicación.]\n\"span.line\" [2. Se han corregido errores menores.]",
                 "1_3_9": "\"span.line\" [1. Mejora de la interfaz de usuario y la funcionalidad de las secciones de Intercambio y billetera.]\n\"span.line\" [2. Se han corregido errores menores adicionales.]"

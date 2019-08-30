@@ -30,14 +30,14 @@
         "createNewAccount": "Pilih Avatar Anda",
         "description": {
             "becomePart": "Menjadi bagian dari wilayah crypto yang tumbuh cepat. Anda adalah satu-satunya orang yang dapat mengakses aset crypto Anda",
-            "dex": "Keluarkan token Anda sendiri. Ini dapat diintegrasikan ke dalam bisnis Anda tidak hanya sebagai mata uang internal tetapi juga sebagai sistem penilaian, atau program loyalitas.",
+            "dex": "Berdaganglah dengan cepat dan aman. Anda memegang kendali penuh atas dana Anda saat memperdagangkannya di bursa terdesentralisasi kami.",
             "enterName": "Masukkan nama akun atau",
             "wallet": "Simpan, kelola, dan terima bunga pada saldo aset digital Anda, dengan mudah dan aman."
         },
         "from": "Avatar ini adalah representasi visual, Anda tidak dapat mengubahnya nanti",
         "header": {
             "accountName": "Nama akun",
-            "dex": "TokenLauncher",
+            "dex": "Exchange Terdesentralisasi",
             "wallet": "Dompet",
             "withBlockchain": "Mulai dengan Blockchain"
         },

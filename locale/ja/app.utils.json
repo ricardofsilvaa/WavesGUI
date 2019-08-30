@@ -821,6 +821,7 @@
             "step1": {
                 "button": "あなたがSEEDについて知る必要があること",
                 "buttonMobile": "次へ",
+                "buttonReadMore": "Read more",
                 "p1": "ご自身の安全のため、重要事項を把握してください🙏",
                 "p2": "もし、フィッシングサイトを訪問してしまった場合や、バックアップフレーズ（SEEDフレーズ）を紛失した場合、私たちはあなたの資金を元に戻すことはできません。",
                 "p3": "私たちのプラットフォームを使い続けることで、シードの損失に関わるすべてのリスク（資金を入手し入金することができなくなることを含むが、これに限定されない）を受け入れることにあなたは同意するものとします。あなたがシードを紛失した場合、Wavesプラットフォームはこの結果責任を負わないことに、あなたは同意し承認するものとします。",
@@ -922,6 +923,7 @@
                 "1_3_18": "{span.line}[1. 秘密鍵によるログインが可能になりました。]{span.line}[2. 24時間以内のトークン価格の変化がトークン/WAVESペアに対応しました。]",
                 "1_3_19": "{span.line}[1. Bancor gateway has been launched.]\n{span.line}[2. User menu interface has been improved.]",
                 "1_3_2": "{span.line} [1. Vostokのゲートウェイが追加されました。 \n{span.line} [2. UIの改善と、いくつかのマイナーなバグを修正しました。]",
+                "1_3_20": "{span.line}[1. Improved system for storing and restoring accounts from local storage (Need to update the [desktop application](https://wavesplatform.com/technology/wallet)).]\n{span.line}[2. Fixed rounding of prices in the orderbook.]",
                 "1_3_5": "{span.line}[1. [wsoc.io](https://wsoc.io) コンテスト用のトークンタブが追加されました。]{span.line}[2. フランス語に対応しました。]{span.line}[3. 一部のマイナーバグを修正しました。]",
                 "1_3_7": "{span.line}[1.[tokenrating.wavesexplorer.com](https://tokenrating.wavesexplorer.com) に対応。アプリから直接トークンのレーティングが可能に。]{span.line}[2. 追加のマイナーバグを修正しました。]",
                 "1_3_9": "{span.line}[1. 交換とウォレットセクションにおけるUIと機能の改善。]\n {span.line}[2. マイナーバグを修正。]"

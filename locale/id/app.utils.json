@@ -194,10 +194,10 @@
             "ok": "Masuk"
         },
         "deleteAccount": {
-            "cancel": "Cancel",
-            "delete": "Remove",
-            "description": "{div}[Removing an account will lead to its irretrievable loss if you didn't save a backup phrase (SEED).]\n{div}[Click on the REMOVE button to proceed with account removal, or CANCEL to return to the previous screen.]",
-            "header": "Remove account"
+            "cancel": "Batalkan",
+            "delete": "Hapus",
+            "description": "{div} [Menghapus akun akan menyebabkan kerugian yang tidak dapat diperbaiki jika Anda tidak menyimpan frase cadangan (SEED).]\n{div} [Klik pada tombol REMOVE untuk melanjutkan penghapusan akun, atau BATAL untuk kembali ke layar sebelumnya.]",
+            "header": "Menghapus akun"
         },
         "deposit": {
             "coinomatBCH": {
@@ -612,10 +612,10 @@
             "warningHeader": "Tindakan dapat menyebabkan hilangnya aset."
         },
         "settings": {
-            "account": "Account",
+            "account": "Akun",
             "cancel": "Buat sebuah akun",
             "changePass": "Ganti kata sandi",
-            "deleteAccount": "Remove account",
+            "deleteAccount": "Menghapus akun",
             "general": {
                 "auto": "Auto",
                 "blockHeight": "Tinggi saat ini",
@@ -821,6 +821,7 @@
             "step1": {
                 "button": "Apa yang perlu Anda ketahui tentang SEED Anda",
                 "buttonMobile": "Berikutnya",
+                "buttonReadMore": "Read more",
                 "p1": "Harap luangkan waktu untuk memahami beberapa hal penting untuk keselamatan Anda sendiri. 🙏",
                 "p2": "Kami tidak dapat memulihkan dana Anda atau membekukan akun Anda jika Anda mengunjungi situs phising atau kehilangan frasa cadangan (frasa SEED).",
                 "p3": "Dengan terus menggunakan platform kami, Anda setuju untuk menerima semua risiko yang terkait dengan hilangnya SEED Anda, termasuk tetapi tidak terbatas pada ketidakmampuan untuk mendapatkan dana Anda dan membuangnya. Jika Anda kehilangan SEED Anda, Anda setuju dan mengakui bahwa Waves Platform tidak akan bertanggung jawab atas konsekuensi negatif dari ini.",
@@ -922,6 +923,7 @@
                 "1_3_18": "{span.line} [1. Menambahkan login ke dompet menggunakan kunci pribadi.] \n{span.line} [2. Perubahan harga 24 jam dari token sekarang terikat ke pasangan token/WAVES.]",
                 "1_3_19": "{span.line} [1. Gerbang Bancor telah diluncurkan.] \n {span.line} [2. Antarmuka menu pengguna telah ditingkatkan.]",
                 "1_3_2": "{span.line} [1. Gateway Vostok telah diluncurkan.] \n{span.line} [2. UI yang diperbaiki dan bug minor tambahan telah diperbaiki.]",
+                "1_3_20": "{span.line}[1. Improved system for storing and restoring accounts from local storage (Need to update the [desktop application](https://wavesplatform.com/technology/wallet)).]\n{span.line}[2. Fixed rounding of prices in the orderbook.]",
                 "1_3_5": "{span.line} [1. Tab dengan token kontes [wsoc.io] (https://wsoc.io) telah ditambahkan.] \n {span.line} [2. Dukungan bahasa Perancis ditambahkan.] \n {span.line} [3. Bug minor tambahan telah diperbaiki.]",
                 "1_3_7": "{span.line}[1. Integrasi dengan [tokenrating.wavesexplorer.com] (https://tokenrating.wavesexplorer.com) Sekarang Anda dapat menilai token langsung di app.] \n {span.line}[2. Bug minor tambahan telah diperbaiki.]",
                 "1_3_9": "{span.line}[1. UI dan fungsionalitas yang lebih baik dari bagian Exchange dan Dompet.] \n {span.line}[2. Bug minor tambahan telah diperbaiki.]"
