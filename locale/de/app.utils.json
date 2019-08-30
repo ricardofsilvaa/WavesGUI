@@ -725,6 +725,8 @@
             "fee": "Gebühr",
             "matcher": "Bestellanforderungen unterschreiben",
             "openApp": "Öffnen sie die Waves App",
+            "orderType": "Order type",
+            "pair": "Pair",
             "price": "Preis",
             "refererTo": "Wenn der Fehler weiterhin besteht, lesen sie bitte",
             "referTo": "Wenn der Fehler weiterhin besteht, lesen sie bitte",
@@ -738,6 +740,7 @@
             "signErrorText": "Anfrage auf Ledger bestätigen",
             "signErrorTextImportKeeper": "Melden Sie sich mit der Adresse {{address}} bei Waves Keeper an. und dann die Seite aktualisieren, um fortzufahren.",
             "signErrorTextKeeper": "Bitte versuchen Sie es erneut. Wenn der Fehler weiterhin besteht, erstellen Sie ein Ticket für [Support](https://support.wavesplatform.com/).",
+            "timestamp": "Timestamp",
             "txId": "TXID"
         },
         "sponsorship_edit": {

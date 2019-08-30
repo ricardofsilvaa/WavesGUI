@@ -725,6 +725,8 @@
             "fee": "手数料",
             "matcher": "注文リクエストに署名",
             "openApp": "Waves Appを開く",
+            "orderType": "Order type",
+            "pair": "Pair",
             "price": "価格",
             "refererTo": "エラーを解決できない場合、こちらを参照ください。",
             "referTo": "エラーを解決できない場合、こちらを参照ください。",
@@ -738,6 +740,7 @@
             "signErrorText": "あなたはLedgerデバイスでリクエストを承認しませんでした",
             "signErrorTextImportKeeper": "Waves Keeperに、アドレス : {{address}}でサインインし、\r\nページを再読込みして続ける。",
             "signErrorTextKeeper": "再度お試し下さい。問題が継続する場合、 [サポート](https://support.wavesplatform.com)で、サポートチケットを発行して下さい。",
+            "timestamp": "Timestamp",
             "txId": "TXID"
         },
         "sponsorship_edit": {

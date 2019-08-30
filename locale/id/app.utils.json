@@ -725,6 +725,8 @@
             "fee": "Biaya",
             "matcher": "Tandatangani permintaan pesanan",
             "openApp": "Buka Aplikasi Waves",
+            "orderType": "Order type",
+            "pair": "Pair",
             "price": "Harga",
             "refererTo": "Jika kesalahan berlanjut, silakan merujuk",
             "referTo": "Jika kesalahan berlanjut, silakan merujuk",
@@ -738,6 +740,7 @@
             "signErrorText": "Anda tidak mengonfirmasi permintaan pada Perangkat Ledger Anda",
             "signErrorTextImportKeeper": "Masuk ke Waves Keeper dengan alamat {{address}}, lalu segarkan laman untuk melanjutkan.",
             "signErrorTextKeeper": "Silakan coba lagi. Jika kesalahan berlanjut, silakan buat tiket ke [Dukungan](https://support.wavesplatform.com/)",
+            "timestamp": "Timestamp",
             "txId": "TXID"
         },
         "sponsorship_edit": {

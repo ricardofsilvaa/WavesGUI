@@ -725,6 +725,8 @@
             "fee": "费用",
             "matcher": "Sign orders requests",
             "openApp": "打开Waves应用程序",
+            "orderType": "Order type",
+            "pair": "Pair",
             "price": "价格",
             "refererTo": "如果错误仍然存​​在，请参阅",
             "referTo": "如果错误仍然存​​在，请参阅",
@@ -738,6 +740,7 @@
             "signErrorText": "您未在Ledger设备上确认该请求",
             "signErrorTextImportKeeper": "使用地址{{address}}登录Waves Keeper，然后刷新页面以继续。",
             "signErrorTextKeeper": "请再试一次。如果错误仍然存在，请创建[帮助]的票证（https://support.wavesplatform.com/）",
+            "timestamp": "Timestamp",
             "txId": "TXID"
         },
         "sponsorship_edit": {

@@ -725,6 +725,8 @@
             "fee": "Комиссия",
             "matcher": "Запрос на подписание ордера",
             "openApp": "Откройте приложение Waves",
+            "orderType": "Order type",
+            "pair": "Pair",
             "price": "Цена",
             "refererTo": "Если ошибка остается, обратитесь к",
             "referTo": "Если ошибка остается, обратитесь к",
@@ -738,6 +740,7 @@
             "signErrorText": "Вы не подтвердили запрос на устройстве Ledger",
             "signErrorTextImportKeeper": "Войдите в Waves Keeper с адресом {{address}}, а затем обновите страницу, чтобы продолжить.",
             "signErrorTextKeeper": "Пожалуйста, попробуйте еще раз. Если ошибка повториться, напишите в [Поддержку](https://support.wavesplatform.com/)",
+            "timestamp": "Timestamp",
             "txId": "TXID"
         },
         "sponsorship_edit": {

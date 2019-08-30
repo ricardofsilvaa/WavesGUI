@@ -725,6 +725,8 @@
             "fee": "Komisyon",
             "matcher": "Emri imzalayın",
             "openApp": "Waves uygulamasını aç",
+            "orderType": "Order type",
+            "pair": "Pair",
             "price": "Fiyat",
             "refererTo": "Eğer hatalar devam ederse:",
             "referTo": "Eğer hatalar devam ederse:",
@@ -738,6 +740,7 @@
             "signErrorText": "Talebi Ledger Nano S'i kullanarak doğrulamadın",
             "signErrorTextImportKeeper": "Waves Keeper'a  {{address}} adresinizle giriş yapın, ve devam etmek için sayfayı yenileyin.",
             "signErrorTextKeeper": "Lütfen tekrar deneyin. Eğer hatalar devam ederse [destek](https://support.wavesplatform.com/) ile iletişime geçin",
+            "timestamp": "Timestamp",
             "txId": "TXID"
         },
         "sponsorship_edit": {

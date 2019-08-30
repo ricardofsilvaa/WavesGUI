@@ -725,6 +725,8 @@
             "fee": "Fee",
             "matcher": "Onderteken orders aanvragen",
             "openApp": "Open de Waves App",
+            "orderType": "Order type",
+            "pair": "Pair",
             "price": "Prijs",
             "refererTo": "Als de fout aanhoudt, raadpleeg dan",
             "referTo": "Als de fout aanhoudt, raadpleeg dan",
@@ -738,6 +740,7 @@
             "signErrorText": "U hebt het verzoek op uw Ledger niet bevestigd",
             "signErrorTextImportKeeper": "Login met Waves Keeper met {{address}} adres, en ververs dan de pagina om door te gaan.",
             "signErrorTextKeeper": "Probeer alstublieft opnieuw. Als deze error aanhoudt maak dan een ticket op [Support](https://support.wavesplatform.com/)",
+            "timestamp": "Timestamp",
             "txId": "TXID"
         },
         "sponsorship_edit": {

@@ -725,6 +725,8 @@
             "fee": "수수료",
             "matcher": "요청 주문에 서명",
             "openApp": "Waves 앱 실행",
+            "orderType": "Order type",
+            "pair": "Pair",
             "price": "가격",
             "refererTo": "오류가 지속되면 다음을 참고하세요",
             "referTo": "오류가 지속되면 다음을 참고하세요",
@@ -738,6 +740,7 @@
             "signErrorText": "귀하의 Ledger 디바이스에서 요청을 승인하지 않았습니다.",
             "signErrorTextImportKeeper": "주소 {{address}}로 Waves Keeper에 로그인 하고 계속하기 위해 페이지를 새로고침 하세요.",
             "signErrorTextKeeper": "다시 시도하세요. 오류가 지속된다면 [서포트](https://support.wavesplatform.com/)에 문의하세요.",
+            "timestamp": "Timestamp",
             "txId": "TXID"
         },
         "sponsorship_edit": {

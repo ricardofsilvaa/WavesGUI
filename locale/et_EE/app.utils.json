@@ -725,6 +725,8 @@
             "fee": "Tasu",
             "matcher": "Kinnitage orderite päringud",
             "openApp": "Avage Waves rakendus",
+            "orderType": "Order type",
+            "pair": "Pair",
             "price": "Hind",
             "refererTo": "Kui viga püsib, vaadake palun",
             "referTo": "Kui viga püsib, vaadake palun",
@@ -738,6 +740,7 @@
             "signErrorText": "Te ei kinnitanud päringut teie Ledger Nano S-s",
             "signErrorTextImportKeeper": "Logige sisse Waves Keeperisse aadressiga {{address}} ja seejärel värskendage leht jätkamiseks.",
             "signErrorTextKeeper": "Palun proovi uuesti. Kui viga püsib, looge pilet [kasutajatoele](https://support.wavesplatform.com/)",
+            "timestamp": "Timestamp",
             "txId": "TXID"
         },
         "sponsorship_edit": {

@@ -725,6 +725,8 @@
             "fee": "Taxa",
             "matcher": "Criar ordens",
             "openApp": "Abrir o aplicativo Waves",
+            "orderType": "Order type",
+            "pair": "Pair",
             "price": "Preço",
             "refererTo": "Se o erro persistir, nos informe",
             "referTo": "Se o erro persistir, nos informe",
@@ -738,6 +740,7 @@
             "signErrorText": "Você não confirmou a autorização em sua Ledger Nano S",
             "signErrorTextImportKeeper": "Entre na Waves Keeper com o endereço {{address}}, e atualize a página para continuar.",
             "signErrorTextKeeper": "Por favor, tente novamente. Se o erro persistir, crie um ticket para o [Suporte](https://support.wavesplatform.com/)",
+            "timestamp": "Timestamp",
             "txId": "TXID"
         },
         "sponsorship_edit": {
