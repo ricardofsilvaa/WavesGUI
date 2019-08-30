@@ -1,0 +1,13 @@
+{
+  "name": "curve25519-js",
+  "homepage": "https://github.com/wavesplatform/curve25519-js",
+  "_release": "cae6878256",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "cae68782564b83ffa1c7c757e40a3944cb140290"
+  },
+  "_source": "https://github.com/wavesplatform/curve25519-js.git",
+  "_target": "*",
+  "_originalSource": "https://github.com/wavesplatform/curve25519-js.git"
+}

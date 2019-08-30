@@ -1,0 +1,23 @@
+{
+  "name": "waves-angular-validate",
+  "version": "1.1.3",
+  "description": "Painless form validation for AngularJS. Powered by the jQuery Validation Plugin.",
+  "authors": [
+    "Jan-Paul Kleemans <jpkleemans@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/beregovoy68/angular-validate",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/beregovoy68/angular-validate.git"
+  },
+  "main": "./src/angular-validate.js",
+  "ignore": [
+    "**/.*",
+    "package.json",
+    "Gruntfile.js"
+  ],
+  "dependencies": {
+    "jquery-validation": "~1.14.0"
+  }
+}
